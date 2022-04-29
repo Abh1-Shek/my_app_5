@@ -71,10 +71,13 @@ const styles = StyleSheet.create({
     },
     textInput: {
         borderWidth: 1,
-        borderColor: '#cccccc',
+        borderColor: '#e4d0ff',
+        backgroundColor: '#e4d0ff',
+        color: '#120438',
+        borderRadius: 6,
         width: '100%',
         marginRight: 8,
-        padding: 8,
+        padding: 16,
     },
     buttonContainer: {
         marginTop: 16,
